@@ -1,0 +1,22 @@
+body{
+    background-image:url(http://walldiskpaper.com/wp-content/uploads/2014/10/Music-Notes-Wallpaper-Free.jpg);
+    background-size: cover;
+}
+.audio{
+    padding-top: 50px;
+}
+h1{
+    color: gold;
+    padding-left: 250px;
+    text-decoration: underline;
+}
+input[type=text]{
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border :1px solid red;
+    box-sizing: border-box;
+    border-radius: 15px;
+
+}

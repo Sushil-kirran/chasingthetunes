@@ -1,0 +1,65 @@
+body {
+    background-image:url(http://walldiskpaper.com/wp-content/uploads/2014/10/Music-Notes-Wallpaper-Free.jpg);
+    background-size: cover;
+    
+}
+h1{
+    color: whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    position: relative;
+    right: -200px;
+    font-size: 40px;
+    text-decoration: underline 2px;
+    text-underline-position:below 10px;
+}
+p{
+    color: rgb(235, 85, 59);
+    position: relative;
+    right: -40px;
+    font-size: 30px;
+
+}
+p1{
+    color: rgb(235, 85, 59);
+    position: relative;
+    font-size: 30px;
+    right: -180px;
+    text-shadow: rgb(229, 241, 241);
+
+}
+p2{
+    color: wheat;
+    position: relative;
+    right: -50px;
+    font-size: 20px;
+    top: 60px;
+}
+.start a{
+    color: whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    position: relative;
+    right: -220px;
+    top: 100px;
+    font-size: 20px;
+    background-color: rgb(175, 5, 5);
+    padding: 12px 22px;
+    margin: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius:8px ;
+    transition: 0.3s;
+}
+.start a:hover{
+    color: black;
+}
+h2{
+    color: rgb(85, 255, 7);
+    position: relative;
+    top: 150px;
+    text-decoration: underline rgb(155, 30, 8);
+}
+ol{
+    color: rgb(161, 194, 192);
+    position: relative;
+    top: 150px;
+}
